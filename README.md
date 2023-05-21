@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anderson</h1>
-<h3 align="center">I am an aspiring full-stack developer based in Maine. 🦞</h3>
+<h3 align="center">I am a front end developer based in Maine. 🦞</h3>
 <p align="center">I'm currently enrolled in the <b>Software Engineer</b> Program at Practicum.</p>
 
 </br>
