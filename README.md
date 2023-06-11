@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Anderson! 👨🏾‍💻</h1>
 <br>
-<h2 align="center">Full Stack Software Engineer</h2>
+<h2 align="center">Full Stack Software Developer</h2>
 <br>
 <table align="center">
   <thead>
