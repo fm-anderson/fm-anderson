@@ -7,6 +7,7 @@
 - I create WordPress sites for small businesses
 - I can help you fix the bugs in your JS code
 - I can update/manage your WordPress site
+- I can help you automate boring admin tasks
 ##
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github&card_width=500px)
 
