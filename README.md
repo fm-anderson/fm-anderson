@@ -1,13 +1,13 @@
 # 👨🏾‍💻 Hi, I'm Anderson!
 
-## Full Stack Software Developer
+## Full Stack Software Engineer
 - I develop websites and mobile applications
 - I am an assistant tutor at TripleTen Bootcamp
-- I am a Software Engineer Student at TripleTen
-- I create WordPress sites for small businesses
-- I can help you fix the bugs in your JS code
-- I can update/manage your WordPress site
+- I create Full-Stack React Applications
+- I can identify and fix codes on your website
+- I can update/manage your website or mobile app
 - I can help you automate boring admin tasks
+- Let's connect! Here's my [LinkedIn](https://www.linkedin.com/in/fm-anderson/) profile. 
 ##
 ![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github&card_width=500px)
 
