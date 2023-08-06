@@ -4,7 +4,7 @@
 - I develop websites and mobile applications
 - I am an assistant tutor at TripleTen Bootcamp
 - I create Full-Stack React Applications
-- I can identify and fix bugs on your website
+- I can identify and fix bugs on your code
 - I can update/manage your website or mobile app
 - I can add Firebase to your front-end application
 - I can add password-less authentication to your apps
