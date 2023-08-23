@@ -11,9 +11,9 @@
 - I can help you automate boring admin tasks
 - Let's connect! Here's my [LinkedIn](https://www.linkedin.com/in/fm-anderson/) profile. 
 ##
-![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github&card_width=500px)
+![Anderson's GitHub stats](https://fma-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github&card_width=500px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact&card_width=500px)
+![Top Langs](https://fma-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact&card_width=500px)
 
 ##
 
