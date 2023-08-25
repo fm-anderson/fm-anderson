@@ -2,7 +2,7 @@
 
 ## Full Stack Software Engineer
 - I develop websites and mobile applications
-- I am an assistant tutor at TripleTen Bootcamp
+- I am an assistant tutor at TripleTen
 - I create Full-Stack React Applications
 - I can identify and fix bugs on your code
 - I can update/manage your website or mobile app
