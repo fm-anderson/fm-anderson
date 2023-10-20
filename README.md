@@ -11,8 +11,8 @@ I'm a Full-Stack Engineer with a unique combination of technical skills and mark
 </p>
 
 <h3>Currently working on:</h3>
-<a href="https://github.com/synthesis-workshop"><img height=120 src="https://fma-stats.vercel.app/api/pin/?username=synthesis-workshop&repo=backend&show_owner=true" /></a>
-<a href="https://github.com/fm-anderson/transfer-partners-api"><img height=120 src="https://fma-stats.vercel.app/api/pin/?username=fm-anderson&repo=transfer-partners-api&show_owner=false" /></a>
+<a href="https://github.com/synthesis-workshop"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=synthesis-workshop&repo=backend&show_owner=true" /></a>
+<a href="https://github.com/fm-anderson/transfer-partners-api"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=transfer-partners-api&show_owner=false" /></a>
 </br>
 </br>
 
@@ -41,8 +41,8 @@ I'm a Full-Stack Engineer with a unique combination of technical skills and mark
 </p>
 
 <div href="https://github.com/fm-anderson/">
-  <img height=150 align="center" src="https://fma-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github" alt="if you see this, refresh the page" />
-  <img height=150 align="center" src="https://fma-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact" alt="if you see this, refresh the page" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github" alt="if you see this, refresh the page" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact" alt="if you see this, refresh the page" />
 </div>
 
 </br>
