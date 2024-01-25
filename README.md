@@ -12,7 +12,7 @@ I'm a Full-Stack Engineer with a unique combination of technical skills and mark
 
 <h3>Currently working on:</h3>
 <a href="https://github.com/synthesis-workshop"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=synthesis-workshop&repo=backend&show_owner=true" /></a>
-<a href="https://github.com/fm-anderson/daily-route-neti"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=daily-route-neti&show_owner=false" /></a>
+<a href="https://github.com/fm-anderson/daily-route-neti"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=daily-route-neti&show_owner=fals" /></a>
 </br>
 </br>
 
