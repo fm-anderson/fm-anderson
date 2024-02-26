@@ -7,11 +7,11 @@
 </div>
 
 <p>
-I'm a Full-Stack Engineer with a unique combination of technical skills and marketing insight. I have hands-on experience in marketing and SEO, which allows me to understand the broader business context of the projects I work on. This experience, coupled with my obsession with productivity through automation, allows me to approach software development with a sharper understanding of how technology can be leveraged to meet business goals.
+I bring a unique combination of technical expertise, entrepreneurial spirit, and marketing acumen to the table. As founder of Tech Install, a thriving company that has served over 1,500 clients, my journey has evolved from managing all business and marketing operations to a passionate focus on software development. I use my proficiency in JavaScript, Ruby, and SQL to drive business growth and build efficient, scalable solutions. What sets me apart is my dual expertise in software engineering and marketing, which enables me to approach projects with a holistic view, ensuring that technical solutions meet broader business objectives.
 </p>
 
 <h3>Currently working on:</h3>
-<a href="https://github.com/fm-anderson/japan-sushi-roll"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=japan-sushi-roll&show_owner=false" /></a>
+<a href="https://github.com/fm-anderson/japan-sushi-roll"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=japan-sushi-roll&show_owner=fals" /></a>
 <a href="https://github.com/fm-anderson/daily-route-neti"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=daily-route-neti&show_owner=false" /></a>
 </br>
 </br>
