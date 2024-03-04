@@ -12,7 +12,7 @@ I bring a unique combination of technical expertise, entrepreneurial spirit, and
 
 <h3>Currently working on:</h3>
 <a href="https://github.com/fm-anderson/japan-sushi-roll"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=japan-sushi-roll&show_owner=fals" /></a>
-<a href="https://github.com/fm-anderson/daily-route-neti"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=daily-route-neti&show_owner=false" /></a>
+<a href="https://github.com/fm-anderson/daily-route-neti"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=links-page&show_owner=fals" /></a>
 </br>
 </br>
 
