@@ -1,9 +1,6 @@
 <h1>👨🏾‍💻 Anderson Marques</h1>
 
 <div>
-<img src="https://img.shields.io/badge/Javascript-20B2AA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Ruby-20B2AA?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-20B2AA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-20B2AA?style=for-the-badge">
 <img src="https://img.shields.io/badge/Automation%20Expert-20B2AA?style=for-the-badge">
 </div>
