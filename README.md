@@ -1,19 +1,20 @@
 <h1>👨🏾‍💻 Anderson Marques</h1>
 
 <div>
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-20B2AA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Automation%20Expert-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation%20Expert-20B2AA?style=for-the-badge">
 </div>
 
-<p>
-I bring a unique combination of technical expertise, entrepreneurial spirit, and marketing acumen to the table. As founder of Tech Install, a thriving company that has served over 1,500 clients, my journey has evolved from managing all business and marketing operations to a passionate focus on software development. I use my proficiency in JavaScript, Ruby, and SQL to drive business growth and build efficient, scalable solutions. What sets me apart is my dual expertise in software engineering and marketing, which enables me to approach projects with a holistic view, ensuring that technical solutions meet broader business objectives.
-</p>
+<div>
+  <p> I bring a unique combination of technical expertise and entrepreneurial spirit to the table. As founder of Tech Install, a thriving company that has served over 1,500 clients, my journey has evolved from managing all business and marketing operations to a passionate focus on software development. I use my proficiency in JavaScript, Ruby, and SQL to drive business growth and build efficient, scalable solutions.
+  </p>
+</div>
 
-<h3>Currently working on:</h3>
-<a href="https://github.com/fm-anderson/blackjack-multiplayer"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=blackjack-multiplayer&show_owner=false" /></a>
-<a href="https://github.com/fm-anderson/days-until"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=days-until&show_owner=false" /></a>
-</br>
-</br>
+<div>
+  <h3>Currently working on:</h3>
+  <a href="https://github.com/pureinvoices/"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=pureinvoices&repo=web&show_owner=true" /></a>
+  <a href="https://github.com/fm-anderson/blackjack-multiplayer"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=blackjack-multiplayer&show_owner=false" /></a>
+</div>
 
 ---
 
@@ -44,13 +45,14 @@ I bring a unique combination of technical expertise, entrepreneurial spirit, and
 </p>
 
 <div href="https://github.com/fm-anderson/">
+  </br>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github" alt="if you see this, refresh the page" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact" alt="if you see this, refresh the page" />
 </div>
 
-</br>
-<h2>Let's connect!</h2>
 <div>
+  </br>
+  <h2>Let's connect!</h2>
   <a href="https://www.linkedin.com/in/fm-anderson/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin"></a>
   <a href="https://fm-anderson.com"><img src="https://img.shields.io/badge/portfolio-003B57?style=for-the-badge&logo=elasticstack&logoColor=FFF"></a>
   <a href="https://discordapp.com/users/459151011324362763"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF"></a>
