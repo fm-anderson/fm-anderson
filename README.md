@@ -6,7 +6,8 @@
 </div>
 
 <div>
-  <p> I bring a unique combination of technical expertise and entrepreneurial spirit to the table. As founder of Tech Install, a thriving company that has served over 1,500 clients, my journey has evolved from managing all business and marketing operations to a passionate focus on software development. I use my proficiency in JavaScript, Ruby, and SQL to drive business growth and build efficient, scalable solutions.
+  <p>
+    
   </p>
 </div>
 
