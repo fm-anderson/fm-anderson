@@ -50,12 +50,3 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github" alt="if you see this, refresh the page" />
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact" alt="if you see this, refresh the page" />
 </div>
-
-<div>
-  </br>
-  <h2>Let's connect!</h2>
-  <a href="https://www.linkedin.com/in/fm-anderson/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://fm-anderson.com"><img src="https://img.shields.io/badge/portfolio-003B57?style=for-the-badge&logo=elasticstack&logoColor=FFF"></a>
-  <a href="https://discordapp.com/users/459151011324362763"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=FFF"></a>
-  <a href="mailto:andersonmarquesweb@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=maildotru&logoColor=FFF"></a>
-</div>
