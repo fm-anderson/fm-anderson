@@ -2,7 +2,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-20B2AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Automation%20Expert-20B2AA?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Automation%20Consultant-20B2AA?style=for-the-badge">
   <a href="https://qrcodesforfree.com/" target="_blank"><img src="https://img.shields.io/badge/qr%20codes%20for%20free-8A2BE2?style=for-the-badge&logo=htmx" /></a>
 </div>
 
