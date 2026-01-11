@@ -14,8 +14,10 @@
 
 <div>
   <h3>Currently working on:</h3>
-  <a href="https://github.com/pureinvoices/"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=pureinvoices&repo=web&show_owner=true" /></a>
-  <a href="https://github.com/fm-anderson/blackjack-multiplayer"><img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=fm-anderson&repo=blackjack-multiplayer&show_owner=false" /></a>
+  <img src="https://img.shields.io/badge/pure%20invoices-312f30?style=for-the-badge&logo=github" /> 
+  
+  <!-- <a href="https://github.com/pureinvoices/"><img height=120 src="https://github-readme-stats-rust-rho-91.vercel.app/api/pin/?username=pureinvoices&repo=web&show_owner=true" /></a>
+  <a href="https://github.com/fm-anderson/blackjack-multiplayer"><img height=120 src="https://github-readme-stats-rust-rho-91.vercel.app/api/pin/?username=fm-anderson&repo=blackjack-multiplayer&show_owner=false" /></a> -->
 </div>
 
 ---
@@ -47,7 +49,8 @@
 </p>
 
 <div href="https://github.com/fm-anderson/">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
   </br>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github" alt="if you see this, refresh the page" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fm-anderson&layout=compact" alt="if you see this, refresh the page" />
+  <img height=150 align="center" src="https://github-readme-stats-rust-rho-91.vercel.app/api?username=fm-anderson&show_icons=true&hide=issues,contribs&rank_icon=github" alt="if you see this, refresh the page" />
+  <img height=150 align="center" src="https://github-readme-stats-rust-rho-91.vercel.app/api/top-langs/?username=fm-anderson&layout=compact" alt="if you see this, refresh the page" />
 </div>
