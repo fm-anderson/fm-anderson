@@ -15,7 +15,7 @@
 <div>
   <h3>Currently working on:</h3>
   <a href="https://pureinvoices.com/"><img src="https://img.shields.io/badge/pure%20invoices-e1e1e1?style=for-the-badge" alt="Pure Invoices Badge" /></a>
-  <span>&nbsp&nbsp&nbsp</span>
+  <span>&nbsp</span>
   <a href="https://github.com/fm-anderson/lead_flow"><img src="https://img.shields.io/badge/lead%20flow-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a>  
 </div>
 
