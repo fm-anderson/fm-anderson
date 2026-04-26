@@ -1,9 +1,8 @@
 <h1>Anderson Marques</h1>
 
 <div>
-  <img src="https://img.shields.io/badge/Software%20Developer-20B2AA?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Automation%20Consultant-20B2AA?style=for-the-badge">
-  <a href="https://qrcodesforfree.com/" target="_blank"><img src="https://img.shields.io/badge/qr%20codes%20for%20free-8A2BE2?style=for-the-badge&logo=htmx" /></a>
+  <a href="https://qrcodesforfree.com/" target="_blank"><img src="https://img.shields.io/badge/qr%20codes%20for%20free-20B2AA?style=for-the-badge" /></a>
+  <a href="https://pureinvoices.com/"><img src="https://img.shields.io/badge/pure%20invoices-20B2AA?style=for-the-badge" alt="Pure Invoices Badge" /></a>
 </div>
 
 <div>
@@ -14,11 +13,9 @@
 
 <div>
   <h3>Currently working on:</h3>
-  <a href="https://pureinvoices.com/"><img src="https://img.shields.io/badge/pure%20invoices-e1e1e1?style=for-the-badge" alt="Pure Invoices Badge" /></a>
-  <span>&nbsp</span>
   <a href="https://github.com/fm-anderson/lead_flow"><img src="https://img.shields.io/badge/lead%20flow-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a> 
   <span>&nbsp</span>
-  <a href="https://trycdlprep.com/manual"><img src="https://img.shields.io/badge/Try%20CDL%20Prep-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a>  
+  <a href="https://trycdlprep.com/"><img src="https://img.shields.io/badge/Try%20CDL%20Prep-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a>  
 </div>
 
 ---
