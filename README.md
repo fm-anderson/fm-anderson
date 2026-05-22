@@ -15,7 +15,7 @@
   <h3>Currently working on:</h3>
   <a href="https://github.com/fm-anderson/lead_flow"><img src="https://img.shields.io/badge/lead%20flow-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a> 
   <span>&nbsp</span>
-  <a href="https://trycdlprep.com/"><img src="https://img.shields.io/badge/Try%20CDL%20Prep-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a>  
+  <a href="https://gtcdlprep.com/"><img src="https://img.shields.io/badge/GT%20CDL%20Prep-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a>  
 </div>
 
 ---
