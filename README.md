@@ -22,8 +22,8 @@
 
 <div align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=ruby,js,ts,py,swift,bash,solidity,rails,astro,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,fastapi,django,jest,git,supabase,docker,postman,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,py,rust,swift,bash,solidity,rails,ts,astro,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,fastapi,django,jest,tailwind,git,supabase,docker,raspberrypi,aws)](https://skillicons.dev)
 
 </div>
 
