@@ -1,8 +1,9 @@
 <h1>Anderson Marques</h1>
 
 <div>
-  <a href="https://qrcodesforfree.com/" target="_blank"><img src="https://img.shields.io/badge/qr%20codes%20for%20free-20B2AA?style=for-the-badge" /></a>
+  <a href="https://gtcdlprep.com/"><img src="https://img.shields.io/badge/gt%20cdl%20prep-20B2AA?style=for-the-badge" alt="Pure Invoices Badge" /></a>
   <a href="https://pureinvoices.com/"><img src="https://img.shields.io/badge/pure%20invoices-20B2AA?style=for-the-badge" alt="Pure Invoices Badge" /></a>
+  <a href="https://qrcodesforfree.com/" target="_blank"><img src="https://img.shields.io/badge/qr%20codes%20for%20free-20B2AA?style=for-the-badge" /></a>
 </div>
 
 <div>
@@ -13,9 +14,7 @@
 
 <div>
   <h3>Currently working on:</h3>
-  <a href="https://github.com/fm-anderson/lead_flow"><img src="https://img.shields.io/badge/lead%20flow-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a> 
-  <span>&nbsp</span>
-  <a href="https://gtcdlprep.com/"><img src="https://img.shields.io/badge/GT%20CDL%20Prep-e1e1e1?style=for-the-badge" alt="Lead Flow Badge" /></a>  
+  <a href="https://github.com/fm-anderson/signal-knowledge-bot"><img src="https://img.shields.io/badge/signal%20knowledge%20bot-e1e1e1?style=for-the-badge" alt="Signal Knowledge Bot Badge" /></a>
 </div>
 
 ---
