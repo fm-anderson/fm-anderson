@@ -15,6 +15,7 @@
 <div>
   <h3>Currently working on:</h3>
   <a href="https://github.com/fm-anderson/signal-knowledge-bot"><img src="https://img.shields.io/badge/signal%20knowledge%20bot-e1e1e1?style=for-the-badge" alt="Signal Knowledge Bot Badge" /></a>
+  <a href="awardflight-finder"><img src="https://img.shields.io/badge/award%20flight%20finder-e1e1e1?style=for-the-badge" alt="Signal Knowledge Bot Badge" /></a>
 </div>
 
 ---
